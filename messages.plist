@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<string>0</string>
+		<key>time</key>
+		<string>今天 10:20</string>
+		<key>text</key>
+		<string>what?</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>什么鬼？</string>
+		<key>time</key>
+		<string>今天 10:28</string>
+		<key>type</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>还有谁？</string>
+		<key>time</key>
+		<string>今天 18:20</string>
+		<key>type</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>海苔我喜欢</string>
+		<key>time</key>
+		<string>今天 18:23</string>
+		<key>type</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>棒棒哒</string>
+		<key>time</key>
+		<string>今天 18:28</string>
+		<key>type</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好无聊啊。</string>
+		<key>time</key>
+		<string>今天 18:35</string>
+		<key>type</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>小小毕</string>
+		<key>time</key>
+		<string>今天 18:40</string>
+		<key>type</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>隔壁老王，你还在吗？</string>
+		<key>time</key>
+		<string>今天 18:45</string>
+		<key>type</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>

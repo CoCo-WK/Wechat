@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8cea9fbd-3ecc-488f-bf97-5ad053d23a68++9804" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8cea9fbd-3ecc-488f-bf97-5ad053d23a68++9804" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "911CBF89-1A45-4820-9B55-697B20176755",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8cea9fbd-3ecc-488f-bf97-5ad053d23a68++9804" : "%E9%A1%B9%E7%9B%AE\/chat\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "微信1-09",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "微信1-09.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.zzdl.com\/svn\/ShangJi\/111ji-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8cea9fbd-3ecc-488f-bf97-5ad053d23a68++9804"
+    }
+  ]
+}

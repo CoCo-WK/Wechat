@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  项目  微信
+//
+//  Created by DC-002 on 16/1/12.
+//  Copyright © 2016年 DC-002. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+#import "DEFINE.h"
+#import "MJExtension.h"
+#endif
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
